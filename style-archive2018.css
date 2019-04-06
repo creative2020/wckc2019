@@ -1,4 +1,10 @@
 /* CSS copied from 2019 WordCamp (Customizer) */
+/* Remove form on coming soon page */
+.wccsp-contact {
+    display: none;
+}
+
+
 
 .wccsp-header.overlay h1 {
 	margin-bottom: 77px;
