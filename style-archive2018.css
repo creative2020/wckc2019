@@ -1534,7 +1534,7 @@ input[type=submit].button--inactive:hover {
 	}
 }
 
-.site-title {
+/* .site-title {
 	margin: 0;
 	font-size: 1.5625em;
 	line-height: 1;
@@ -1569,7 +1569,7 @@ input[type=submit].button--inactive:hover {
 	background-image: url('https://2018.cologne.wordcamp.org/files/2018/08/logo-wordcamp.png');
 	background-size: 100%;
 	content: "";
-}
+} */
 
 .site-description {
 	margin: 0;
