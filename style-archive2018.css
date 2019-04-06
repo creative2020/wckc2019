@@ -1586,20 +1586,20 @@ input[type=submit].button--inactive:hover {
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: 50% 0;
-	background-size: fixed;
-	/* background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg'); */
+	background-size: contain;
+	background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 	transition: all .15s ease;
 }
 
 @media (min-width:48em) {
 	.site-header {
-		/* background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg'); */
+		background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 		background-position: 50% 50%;
-		background-size: cover;
+		background-size: contain;
 	}
 }
 
-.site-header:before {
+/* .site-header:before {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -1607,14 +1607,14 @@ input[type=submit].button--inactive:hover {
 	right: 0;
 	background-color: rgba(45,40,45,.6);
 	content: "";
-}
+} */
 
 .site-header>* {
 	position: relative;
 	z-index: 200;
 }
 
-.home .site-header .site-branding:after,
+/* .home .site-header .site-branding:after,
 .home .site-header .site-branding:before {
 	position: absolute;
 	z-index: -1;
@@ -1711,7 +1711,7 @@ input[type=submit].button--inactive:hover {
 	to {
 		transform: skewX(-50deg);
 	}
-}
+} */
 
 .menu-toggle {
 	padding: 1rem;
