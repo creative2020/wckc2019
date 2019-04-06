@@ -1587,13 +1587,13 @@ input[type=submit].button--inactive:hover {
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 	background-size: fixed;
-	background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
+	/* background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg'); */
 	transition: all .15s ease;
 }
 
 @media (min-width:48em) {
 	.site-header {
-		background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
+		/* background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg'); */
 		background-position: 50% 50%;
 		background-size: cover;
 	}
