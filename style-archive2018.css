@@ -1,10 +1,20 @@
 /* CSS copied from 2019 WordCamp (Customizer) */
+
+/* Custom CSS to brand coming soon page */
+/*Jeff*/
+.wccsp-header.overlay:after {
+	background: rgba(0,0,0,0.0);
+}
+
+#subscribe-email {
+	flex: 2;
+}
 /* Remove form on coming soon page */
+
 .wccsp-contact {
     display: none;
 }
-
-
+/* end.jeff */
 
 .wccsp-header.overlay h1 {
 	margin-bottom: 77px;
@@ -1577,13 +1587,13 @@ input[type=submit].button--inactive:hover {
 	background-repeat: no-repeat;
 	background-position: 50% 0;
 	background-size: fixed;
-	background-image: url('https://2018.cologne.wordcamp.org/files/2018/08/topbild.jpg');
+	background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 	transition: all .15s ease;
 }
 
 @media (min-width:48em) {
 	.site-header {
-		background-image: url('https://2018.cologne.wordcamp.org/files/2018/08/topbild.jpg');
+		background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 		background-position: 50% 50%;
 		background-size: cover;
 	}
