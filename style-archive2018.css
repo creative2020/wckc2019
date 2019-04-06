@@ -248,11 +248,11 @@ th, td {
 }
 
 .cc--var-local-copper:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .cc--var-local-copper .cc__variable:after {
-	content: "#6a2766";
+	content: "#EE7768";
 }
 
 .cc--var-local-purple:after {
@@ -312,11 +312,11 @@ th, td {
 }
 
 .cc--var-color-link:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .cc--var-color-link .cc__variable:after {
-	content: "#6a2766";
+	content: "#EE7768";
 }
 
 .cc--var-color-link-focus:after {
@@ -472,11 +472,11 @@ th, td {
 }
 
 .cc--var-color-border-strong:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .cc--var-color-border-strong .cc__variable:after {
-	content: "#6a2766";
+	content: "#EE7768";
 }
 
 .cc--var-color-message-default:after {
@@ -560,11 +560,11 @@ th, td {
 }
 
 .cc--var-color-input-checkbox-active:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .cc--var-color-input-checkbox-active .cc__variable:after {
-	content: "#6a2766";
+	content: "#EE7768";
 }
 
 .cc--var-color-input-radio:after {
@@ -576,11 +576,11 @@ th, td {
 }
 
 .cc--var-color-input-radio-active:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .cc--var-color-input-radio-active .cc__variable:after {
-	content: "#6a2766";
+	content: "#EE7768";
 }
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
@@ -865,7 +865,7 @@ h4 {
 
 h1 {
 	font-size: 2.44141em;
-	color: #6a2766;
+	color: #EE7768;
 }
 
 h2 {
@@ -1002,7 +1002,7 @@ select {
 }
 
 a {
-	color: #6a2766;
+	color: #EE7768;
 	text-decoration: underline;
 	transition: all .15s ease;
 }
@@ -1341,7 +1341,7 @@ input[type=submit] {
 	position: relative;
 	display: inline-block;
 	padding: .4375rem 1rem;
-	border: 1px solid #6a2766;
+	border: 1px solid #EE7768;
 	font-size: 1em;
 	line-height: 1.5625em;
 	text-align: center;
@@ -1349,7 +1349,7 @@ input[type=submit] {
 	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 	font-weight: 700;
 	text-decoration: none;
-	background-color: #6a2766;
+	background-color: #EE7768;
 	border-radius: .1875rem;
 	border-color: transparent;
 	cursor: pointer;
@@ -1393,7 +1393,7 @@ input[type=button].button--primary,
 input[type=reset].button--primary,
 input[type=submit].button--primary {
 	color: rgba(29,36,42,.75);
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .button.button--primary:active,
@@ -1557,7 +1557,7 @@ p.site-description{
 .site-title a:active,
 .site-title a:focus,
 .site-title a:hover {
-	color: #6a2766;
+	color: #EE7768;
 	text-decoration: none;
 }
 
@@ -1761,7 +1761,7 @@ p.site-description{
 }
 
 .menu-toggle[aria-expanded=true] {
-	color: #6a2766;
+	color: #EE7768;
 }
 
 .menu-toggle[aria-expanded=true]:after {
@@ -1884,7 +1884,7 @@ p.site-description{
 .menu-item a:focus,
 .menu-item a:hover {
 	color: #fff;
-	background-color: #6a2766;
+	background-color: #EE7768;
 	border-top: 1px #555 solid;
 }
 
@@ -1905,7 +1905,7 @@ p.site-description{
 @media (min-width: 37.5em) {
 	.current-menu-item>a {
 		color: #fff;
-		background-color: #6a2766;
+		background-color: #EE7768;
 	}
 
 	.menu-item a.focus,
@@ -1913,7 +1913,7 @@ p.site-description{
 															.menu-item a:focus,
 															.menu-item a:hover {
 		color: #fff;
-		background-color: #6a2766;
+		background-color: #EE7768;
 		border-top: 2px #e6aa50 solid;
 	}
 
@@ -1975,7 +1975,7 @@ p.site-description{
 	.menu-item-has-children.focus>a,
 															    .menu-item-has-children:hover>a {
 		color: #fff;
-		background-color: #6a2766;
+		background-color: #EE7768;
 	}
 
 	.menu-item-has-children.focus>a:after,
@@ -2045,7 +2045,7 @@ p.site-description{
 		left: -999em;
 		z-index: 310;
 		min-width: 16.25rem;
-		background-color: #6a2766;
+		background-color: #EE7768;
 	}
 
 	.sub-menu .menu-item {
@@ -2131,7 +2131,7 @@ p.site-description{
 .site-info-network:focus:after,
 .site-info-network:hover,
 .site-info-network:hover:after {
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 #primary {
@@ -2585,8 +2585,8 @@ article.comment-body {
 }
 
 .tix_tickets_table {
-	border-top: 3px double #6a2766;
-	border-bottom: 3px double #6a2766;
+	border-top: 3px double #EE7768;
+	border-bottom: 3px double #EE7768;
 	margin-bottom: 1.5rem;
 }
 
@@ -2754,7 +2754,7 @@ div.googlemaps iframe {
 }
 
 .wcpt-schedule {
-	border: .25rem solid #6a2766;
+	border: .25rem solid #EE7768;
 	margin-bottom: 1.5rem;
 	background-color: #fff;
 }
@@ -2851,7 +2851,7 @@ div.googlemaps iframe {
 	.wcpt-schedule tr {
 		margin-bottom: 1rem;
 		display: block;
-		border: .25rem solid #6a2766;
+		border: .25rem solid #EE7768;
 	}
 
 	.wcpt-schedule .wcb-track-track-1:before,
@@ -2956,7 +2956,7 @@ div.googlemaps iframe {
 .wcb-session-wordpress-security-for-all-you-wont-believe-how-simple-it-can-be:after {
 	display: inline-block;
 	padding: .0625rem .375rem;
-	border: 2px solid #6a2766;
+	border: 2px solid #EE7768;
 	position: absolute;
 	bottom: 1rem;
 	font-size: .8em;
@@ -3857,7 +3857,7 @@ div.googlemaps iframe {
 	width: 10rem;
 	padding: 0;
 	margin: 1.5rem auto;
-	border-top: 2px solid #6a2766;
+	border-top: 2px solid #EE7768;
 }
 
 @media (min-width:48em) {
@@ -3911,7 +3911,7 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget .widget-title {
-	color: #6a2766;
+	color: #EE7768;
 }
 
 .jetpack_subscription_widget p {
@@ -3927,7 +3927,7 @@ div.googlemaps iframe {
 	width: 100%;
 	color: #fff;
 	text-transform: uppercase;
-	background-color: #6a2766;
+	background-color: #EE7768;
 }
 
 .jetpack_subscription_widget input[type=submit]:active,
@@ -4237,7 +4237,7 @@ div.googlemaps iframe {
 	bottom: 0;
 	left: 50%;
 	transform: translateX(-50%);
-	background-color: #6a2766;
+	background-color: #EE7768;
 	content: "";
 }
 
@@ -4262,7 +4262,7 @@ div.googlemaps iframe {
 	bottom: 0;
 	left: 50%;
 	transform: translateX(-50%);
-	background-color: #6a2766;
+	background-color: #EE7768;
 	content: "";
 }
 
@@ -4371,7 +4371,7 @@ div.googlemaps iframe {
 }
 
 #content-widget-5 .widget-title {
-	color: #6a2766;
+	color: #EE7768;
 }
 
 #content-widget-5 p {
@@ -4404,7 +4404,7 @@ div.googlemaps iframe {
 	display: block;
 	padding: 1rem;
 	min-width: 13.75rem;
-	background-color: #6a2766;
+	background-color: #EE7768;
 	text-decoration: none;
 	border-radius: .1875rem;
 }
