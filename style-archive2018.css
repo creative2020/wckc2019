@@ -1500,9 +1500,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .site-header .site-branding {
-	position: relative;
-	overflow: hidden;
-	padding: 1.5rem 1rem;
+	min-height: 400px;
 	text-align: center;
 }
 
