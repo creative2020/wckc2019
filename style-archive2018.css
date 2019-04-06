@@ -1533,6 +1533,10 @@ input[type=submit].button--inactive:hover {
 		padding: 10.5rem 3rem;
 	}
 }
+h1.site-title,
+p.site-description{
+    display: none;
+}
 
 /* .site-title {
 	margin: 0;
