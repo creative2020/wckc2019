@@ -1589,7 +1589,7 @@ p.site-description{
 .site-header {
 	position: relative;
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 	transition: all .15s ease;
 }
@@ -1597,7 +1597,7 @@ p.site-description{
 @media (min-width:48em) {
 	.site-header {
 		background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
-		background-size: contain;
+		background-size: cover;
 	}
 }
 
