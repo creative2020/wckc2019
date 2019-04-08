@@ -16,6 +16,13 @@
 }
 /* end.jeff */
 
+/* Remove items */
+h1.site-title,
+p.site-title,
+p.site-description{
+    display: none;
+}
+
 .wccsp-header.overlay h1 {
 	margin-bottom: 77px;
 	font-size: 1px;
@@ -1530,10 +1537,6 @@ input[type=submit].button--inactive:hover {
 	.home .site-header .site-branding {
 		padding: 10.5rem 3rem;
 	}
-}
-h1.site-title,
-p.site-description{
-    display: none;
 }
 
 /* .site-title {
