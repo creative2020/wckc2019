@@ -1785,7 +1785,7 @@ input[type=submit].button--inactive:hover {
 	background-color: #000;
 }
 
-.main-navigation:before {
+/* .main-navigation:before {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -1793,7 +1793,7 @@ input[type=submit].button--inactive:hover {
 	height: .125rem;
 	background-color: #989898;
 	content: "";
-}
+} */
 
 @media (max-width:37.4375em) {
 	.main-navigation {
@@ -2097,7 +2097,7 @@ input[type=submit].button--inactive:hover {
 	height: 1px;
 	overflow: hidden;
 }
-
+/* -----------------------------------------Logo at the bottom center to click to WordCamp central */
 .site-info-network {
 	position: relative;
 	display: block;
@@ -2107,7 +2107,7 @@ input[type=submit].button--inactive:hover {
 	margin-bottom: 1.5rem;
 	color: #fff;
 	text-indent: -9999px;
-	/* background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png'); */
+	background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png');
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-color: #989898;
@@ -2138,7 +2138,7 @@ input[type=submit].button--inactive:hover {
 .site-info-network:hover:after {
 	background-color: #EE7768;
 }
-
+/* End WordCamp central icon */
 #primary {
 	text-align: left;
 	padding: 1.5rem 1rem;
