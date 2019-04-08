@@ -1362,6 +1362,10 @@ input[type=submit] {
 	cursor: pointer;
 	transition: all .1s ease;
 }
+/* Mailchimp signup */
+.wcorg-mailchimp input[type=submit] {
+    margin-top:16px;
+}
 
 .button:active,
 .button:focus,
@@ -1753,12 +1757,12 @@ input[type=submit].button--inactive:hover {
 }
 
 .menu-toggle:after {
-	position: relative;
+	/* position: relative;
 	top: -.125rem;
 	border: .375rem solid transparent;
 	margin-left: .5rem;
 	border-top-color: #989898;
-	content: "";
+	content: ""; */
 }
 
 .menu-toggle[aria-expanded=true] {
@@ -1876,7 +1880,7 @@ input[type=submit].button--inactive:hover {
 	padding: .5rem 1rem;
 	text-decoration: none;
 	transition: all .1s ease;
-	border-top: 1px #555 solid;
+	/* border-top: 1px #555 solid; */
 	margin-left: -1px;
 }
 
@@ -1886,7 +1890,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:hover {
 	color: #fff;
 	background-color: #EE7768;
-	border-top: 1px #555 solid;
+	/* border-top: 1px #555 solid; */
 }
 
 .menu-item-has-children a {
@@ -1915,7 +1919,7 @@ input[type=submit].button--inactive:hover {
 															.menu-item a:hover {
 		color: #fff;
 		background-color: #EE7768;
-		border-top: 2px #989898 solid;
+		/* border-top: 2px #989898 solid; */
 	}
 
 	.menu-item-has-children a {
@@ -1924,7 +1928,7 @@ input[type=submit].button--inactive:hover {
 
 	.menu-item a {
 		padding: .5rem;
-		border-top: 2px #989898 solid;
+		/* border-top: 2px #989898 solid; */
 	}
 }
 
