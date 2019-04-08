@@ -3905,7 +3905,7 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget:before {
-	background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg');
+	/* background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg'); */
 }
 
 .jetpack_subscription_widget .widget-title {
@@ -4078,7 +4078,7 @@ div.googlemaps iframe {
 
 #text-3:before,
 #text-4:before {
-	background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg');
+	/* background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg'); */
 	background-color: #f5ebe0 !important;
 	background-size: 120px;
 	background-attachment: fixed;
@@ -4348,7 +4348,7 @@ div.googlemaps iframe {
 }
 
 #content-widget-1:before {
-	background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg');
+	/* background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg'); */
 }
 
 #content-widget-2:before,
