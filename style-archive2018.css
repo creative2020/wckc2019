@@ -247,11 +247,11 @@ th, td {
 }
 
 .cc--var-local-linnen:after {
-	background-color: #f5ebe0;
+	background-color: #EBEBEB;
 }
 
 .cc--var-local-linnen .cc__variable:after {
-	content: "#f5ebe0";
+	content: "#EBEBEB";
 }
 
 .cc--var-local-copper:after {
@@ -463,11 +463,11 @@ th, td {
 }
 
 .cc--var-color-border-weak:after {
-	background-color: #f5ebe0;
+	background-color: #EBEBEB;
 }
 
 .cc--var-color-border-weak .cc__variable:after {
-	content: "#f5ebe0";
+	content: "#EBEBEB";
 }
 
 .cc--var-color-border-normal:after {
@@ -1183,7 +1183,7 @@ pre {
 
 code {
 	padding: .125rem .1875rem;
-	background-color: #f5ebe0;
+	background-color: #EBEBEB;
 }
 
 pre code {
@@ -2170,7 +2170,7 @@ input[type=submit].button--inactive:hover {
 .post {
 	margin-bottom: 1.5rem;
 	padding-bottom: 1.5rem;
-	border-bottom: 6px double #f5ebe0;
+	border-bottom: 6px double #EBEBEB;
 }
 
 .post:after,
@@ -2259,7 +2259,7 @@ input[type=submit].button--inactive:hover {
 .wcorg-organizers {
 	padding-bottom: 1.5rem;
 	margin-bottom: 1.5rem;
-	border-bottom: 6px double #f5ebe0;
+	border-bottom: 6px double #EBEBEB;
 }
 
 .wcorg-organizer {
@@ -2597,7 +2597,7 @@ article.comment-body {
 
 .tix_tickets_table td,
 .tix_tickets_table th {
-	border-color: #f5ebe0;
+	border-color: #EBEBEB;
 }
 
 .tix_tickets_table td:first-child,
@@ -2828,7 +2828,7 @@ div.googlemaps iframe {
 .wcpt-schedule .global-session.morning-break,
 .wcpt-schedule .global-session.registration {
 	background-image: url('https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png');
-	background-color: #f5ebe0 !important;
+	background-color: #EBEBEB !important;
 	background-size: 120px;
 	background-position: 50% 0;
 }
@@ -2865,7 +2865,7 @@ div.googlemaps iframe {
 		border: none;
 		color: rgba(29,36,42,.9);
 		font-weight: 700;
-		background-color: #f5ebe0 !important;
+		background-color: #EBEBEB !important;
 	}
 
 	.wcpt-schedule .wcb-track-track-1:before {
@@ -3037,7 +3037,7 @@ div.googlemaps iframe {
 .wcb-session-wordpress-beyond-borders-cross-cultural-communication-and-the-fundamentals-of-caring:after {
 	display: inline-block;
 	padding: .0625rem .375rem;
-	border: 2px solid #f5ebe0;
+	border: 2px solid #EBEBEB;
 	position: absolute;
 	bottom: 1rem;
 	font-size: .8em;
@@ -3481,7 +3481,7 @@ div.googlemaps iframe {
 }
 
 .wcorg-session {
-	border-top: 6px double #f5ebe0;
+	border-top: 6px double #EBEBEB;
 	padding: 1.5rem 0;
 }
 
@@ -3516,7 +3516,7 @@ div.googlemaps iframe {
 }
 
 .wcorg-speaker {
-	border-top: 6px double #f5ebe0;
+	border-top: 6px double #EBEBEB;
 	padding: 1.5rem 0;
 }
 
@@ -3588,7 +3588,7 @@ div.googlemaps iframe {
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
 	padding-top: 1.5rem;
-	border-top: 1px solid #f5ebe0;
+	border-top: 1px solid #EBEBEB;
 	font-size: 1em;
 	line-height: 1.5625em;
 	text-align: center;
@@ -3891,7 +3891,7 @@ div.googlemaps iframe {
 	bottom: 0;
 	left: -1000px;
 	right: -1000px;
-	background-color: #f5ebe0;
+	background-color: #EBEBEB;
 	content: "";
 }
 
@@ -4082,7 +4082,7 @@ div.googlemaps iframe {
 #text-3:before,
 #text-4:before {
 	/* background-image: url('https://2017.cologne.wordcamp.org/files/2017/07/firepat.jpg'); */
-	background-color: #f5ebe0 !important;
+	background-color: #EBEBEB !important;
 	background-size: 120px;
 	background-attachment: fixed;
 	background-position: 50% 0;
@@ -4277,7 +4277,7 @@ div.googlemaps iframe {
 }
 
 .page-template-page-day-of #content-widgets .widget {
-	border-top: 1px solid #f5ebe0;
+	border-top: 1px solid #EBEBEB;
 	background: none !important;
 }
 
@@ -4357,7 +4357,7 @@ div.googlemaps iframe {
 #content-widget-2:before,
 #content-widget-3:before,
 #content-widget-4:before {
-	border-top: 1px solid #f5ebe0;
+	border-top: 1px solid #EBEBEB;
 }
 
 #content-widget-5 {
