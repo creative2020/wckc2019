@@ -1812,19 +1812,19 @@ input[type=submit].button--inactive:hover {
 	text-align: center;
 }
 
-/* .menu:after,
+.menu:after,
 .menu:before {
 	content: "";
 	display: table;
-} */
+}
 
 .menu:after {
 	clear: both;
 }
 
-/* .menu-hauptmenue-container {
+.menu-hauptmenue-container {
 	margin-bottom: -8px;
-} */
+}
 
 @media (min-width:37.5em) {
 	.menu {
@@ -1835,14 +1835,14 @@ input[type=submit].button--inactive:hover {
 		display: inline-block;
 	}
 
-	/* .menu-hauptmenue-container {
+	.menu-hauptmenue-container {
 		text-align: center;
-	} */
+	}
 }
 
 @media (max-width:37.4375em) {
 	.menu {
-		/* border-top: 1px solid hsla(0,0%,100%,.2); */
+		border-top: 1px solid hsla(0,0%,100%,.2);
 		display: none;
 	}
 
@@ -1894,8 +1894,8 @@ input[type=submit].button--inactive:hover {
 }
 
 .menu-item-has-children a {
-	/* padding-top: 20px;
-	padding-bottom: 20px; */
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .current-menu-item>a {
@@ -1983,19 +1983,19 @@ input[type=submit].button--inactive:hover {
 		background-color: #EE7768;
 	}
 
-	/* .menu-item-has-children.focus>a:after,
+	.menu-item-has-children.focus>a:after,
 															    .menu-item-has-children:hover>a:after {
 		border-top-color: rgba(29,36,42,.9);
-	} */
+	}
 
-	/* .menu-item-has-children.focus>.sub-menu,
-		.menu-item-has-children:hover>.sub-menu {
+	.menu-item-has-children.focus>.sub-menu,
+															    .menu-item-has-children:hover>.sub-menu {
 		left: 0;
-	} */
+	}
 
-	/* .menu-item-has-children.current-menu-item>a:after {
+	.menu-item-has-children.current-menu-item>a:after {
 		border-top-color: rgba(29,36,42,.9);
-	} */
+	}
 }
 
 @media (min-width:50em) {
@@ -2016,69 +2016,69 @@ input[type=submit].button--inactive:hover {
 	padding: 0;
 }
 
-/* .sub-menu .menu-item {
+.sub-menu .menu-item {
 	text-transform: none;
 	font-weight: 400;
 	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-} */
+}
 
 .page-navigation-container ul ul a {
 	width: 100%;
 }
 
 @media (max-width:37.4375em) {
-	/* .sub-menu a {
+	.sub-menu a {
 		color: #fff;
 		padding-left: 2.5rem;
 		background-image: url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-color.png');
 		background-repeat: no-repeat;
 		background-size: 12px;
 		background-position: 1rem 50%;
-	} */
+	}
 
-	/* .sub-menu a.focus,
-	.sub-menu a:focus,
-	.sub-menu a:hover {
+	.sub-menu a.focus,
+															    .sub-menu a:focus,
+															    .sub-menu a:hover {
 		background-image: url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png');
-	} */
+	}
 }
 
 @media (min-width:37.5em) {
-	/* .sub-menu {
+	.sub-menu {
 		position: absolute;
 		top: 100%;
 		left: -999em;
 		z-index: 310;
 		min-width: 16.25rem;
 		background-color: #EE7768;
-	} */
+	}
 
-	/* .sub-menu .menu-item {
+	.sub-menu .menu-item {
 		width: 100%;
 		margin: 0;
 		border-top: 1px solid hsla(0,0%,100%,.2);
 		text-align: left;
-	} */
+	}
 
-	/* .sub-menu a {
+	.sub-menu a {
 		padding: .625rem 1rem;
 		color: #fff;
-	} */
+	}
 }
 
 @media (min-width:48em) {
-	/* .sub-menu a {
+	.sub-menu a {
 		padding-left: 1.5rem;
 		padding-right: 1.5rem;
-	} */
+	}
 }
 
 @media (min-width:62em) {
-	/* .sub-menu a {
+	.sub-menu a {
 		padding-left: 2rem;
 		padding-right: 2rem;
 		color: #fff;
-	} */
+	}
 }
 
 #colophon {
@@ -2107,7 +2107,7 @@ input[type=submit].button--inactive:hover {
 	margin-bottom: 1.5rem;
 	color: #fff;
 	text-indent: -9999px;
-	/* background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png'); */
+	background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png');
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-color: #989898;
@@ -2440,7 +2440,7 @@ input[type=submit].button--inactive:hover {
 	height: .875rem;
 	margin-left: .5rem;
 	vertical-align: middle;
-	/* background: no-repeat url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png') 100% 50%; */
+	background: no-repeat url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png') 100% 50%;
 	background-size: 14px;
 	opacity: .5;
 	content: "";
