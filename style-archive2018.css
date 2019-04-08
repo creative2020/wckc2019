@@ -126,7 +126,7 @@ th, td {
 }
 
 #tix th {
-	font-family: "Raleway", sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
 }
 
@@ -592,7 +592,7 @@ th, td {
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html {
-	font-family: sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
@@ -701,7 +701,7 @@ code,
 kbd,
 pre,
 samp {
-	font-family: monospace, monospace;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1em;
 }
 
@@ -816,7 +816,7 @@ textarea {
 body {
 	font-size: .875em;
 	line-height: 1.5625em;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	color: rgba(29,36,42,.75);
 	background: #fff;
 	font-feature-settings: liga;
@@ -850,7 +850,7 @@ h3,
 h4 {
 	margin-bottom: 1.5rem;
 	margin-top: 0;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 700;
 	line-height: 1;
 	text-transform: uppercase;
@@ -928,7 +928,7 @@ textarea {
 	padding: .4375rem 1rem;
 	margin: 0;
 	border: 1px solid #d5d4d5;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1em;
 	line-height: 1.5625em;
 	color: #000;
@@ -998,7 +998,7 @@ select {
 	width: 100%;
 	padding: .4375rem 1rem;
 	border: 1px solid #d5d4d5;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1em;
 	line-height: 1.5625em;
 	color: rgba(29,36,42,.75);
@@ -1198,7 +1198,7 @@ pre code {
 	font-size: 18px;
 	font-size: 1.125rem;
 	line-height: 1.5;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-transform: none;
 }
 
@@ -1250,7 +1250,7 @@ pre code {
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.5;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .cc dd {
@@ -1308,7 +1308,7 @@ pre code {
 
 .cc__title {
 	font-weight: 700;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .cc__variable {
@@ -1353,7 +1353,7 @@ input[type=submit] {
 	line-height: 1.5625em;
 	text-align: center;
 	color: #fff;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 700;
 	text-decoration: none;
 	background-color: #EE7768;
@@ -1585,7 +1585,7 @@ input[type=submit].button--inactive:hover {
 	margin-top: .5rem;
 	font-size: 1em;
 	line-height: 1.25em;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 400;
 	text-transform: none;
 	color: hsla(0,0%,100%,.6);
@@ -1855,7 +1855,7 @@ input[type=submit].button--inactive:hover {
 	position: relative;
 	margin: 0;
 	display: block;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -2014,13 +2014,14 @@ input[type=submit].button--inactive:hover {
 	list-style: none;
 	margin: 0;
 	padding: 0;
-  border-top:1px solid #e3e3e3;
+  width:200%;
 }
 
 .sub-menu .menu-item {
 	text-transform: none;
 	font-weight: 400;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+  border-top:1px solid #e3e3e3;
 }
 
 .page-navigation-container ul ul a {
@@ -2279,7 +2280,7 @@ input[type=submit].button--inactive:hover {
 .wcorg-organizer h2 {
 	margin-bottom: 1rem;
 	font-size: 1.25em;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	letter-spacing: .1em;
 }
 
@@ -2794,7 +2795,7 @@ div.googlemaps iframe {
 	font-size: 1em;
 	line-height: 1.25em;
 	font-weight: 700;
-	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	color: rgba(29,36,42,.9);
 }
 
@@ -2814,7 +2815,7 @@ div.googlemaps iframe {
 	margin-bottom: 0;
 	font-size: 1.5625em;
 	line-height: 1.25em;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	color: rgba(29,36,42,.9);
 }
@@ -4126,7 +4127,7 @@ div.googlemaps iframe {
 	margin: 0 auto;
 	font-size: 16px;
 	line-height: 20px;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	font-weight: 700;
 	transform: rotate(-5deg);
@@ -4399,7 +4400,7 @@ div.googlemaps iframe {
 .nav-anchor li {
 	display: inline-block;
 	margin: .125rem;
-	font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 1em;
 	line-height: 1.25em;
 	font-weight: 700;
@@ -4657,7 +4658,7 @@ img.wp-smiley {
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.5;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 700;
 	color: #444;
 	text-transform: none;
@@ -4690,7 +4691,7 @@ img.wp-smiley {
 	font-size: 1rem;
 	line-height: 1.5;
 	font-weight: 700;
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	color: rgba(0,0,0,.9);
 	border-left: 4px solid #ff9505;
 	border-radius: 3px;
@@ -4727,7 +4728,7 @@ img.wp-smiley {
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.5;
-	font-family: Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .kss-section .kss-modifier__description {
@@ -4771,7 +4772,7 @@ img.wp-smiley {
 
 .kss-style li,
 .kss-style p {
-	font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.5;
