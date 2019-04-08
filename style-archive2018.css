@@ -3579,7 +3579,11 @@ div.googlemaps iframe {
 	font-size: 1em;
 	line-height: 1.5625em;
 }
-
+/* ------------------------------------ Sponsor logos */
+a.sponsor-logo img {
+    margin:auto;
+}
+/* end */
 .wcorg-sponsors>div {
 	display: -ms-flexbox;
 	display: flex;
@@ -3609,7 +3613,7 @@ div.googlemaps iframe {
 	}
 
 	.wcorg-sponsors>div h2:after,
-															    .wcorg-sponsors>div h2:before {
+	.wcorg-sponsors>div h2:before {
 		position: absolute;
 		top: 50%;
 		left: 50%;
