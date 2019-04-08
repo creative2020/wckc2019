@@ -1914,9 +1914,9 @@ input[type=submit].button--inactive:hover {
 	}
 
 	.menu-item a.focus,
-	.menu-item a:active,
-	.menu-item a:focus,
-	.menu-item a:hover {
+															.menu-item a:active,
+															.menu-item a:focus,
+															.menu-item a:hover {
 		color: #fff;
 		background-color: #EE7768;
 		/* border-top: 2px #989898 solid; */
@@ -1962,14 +1962,14 @@ input[type=submit].button--inactive:hover {
 	}
 
 	.menu-item-has-children>a:after {
-		/* position: relative;
+		position: relative;
 		top: -.125rem;
 		display: inline-block;
 		border: .375rem solid transparent;
 		margin-left: .5rem;
 		vertical-align: middle;
 		border-top-color: #989898;
-		content: ""; */
+		content: "";
 	}
 
 	.menu-item-has-children>a .dropdown-toggle {
@@ -1978,7 +1978,7 @@ input[type=submit].button--inactive:hover {
 	}
 
 	.menu-item-has-children.focus>a,
-	.menu-item-has-children:hover>a {
+															    .menu-item-has-children:hover>a {
 		color: #fff;
 		background-color: #EE7768;
 	}
