@@ -1514,7 +1514,7 @@ input[type=submit].button--inactive:hover {
         background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
         background-repeat: no-repeat;
     }
-@media (min-width: 1200px) { /*Desktop lg*/
+@media (min-width: 1200px) { /*Desktop xl*/
     .site-header {
       position: relative;
       background-size: contain;
@@ -1533,33 +1533,33 @@ input[type=submit].button--inactive:hover {
 	text-align: center;
 }
 
-@media (min-width:37.5em) {
+/* @media (min-width:37.5em) {
 	.site-header .site-branding {
 		padding: 3rem 2rem;
 	}
-}
+} */
 
-@media (min-width:48em) {
+/* @media (min-width:48em) {
 	.site-header .site-branding {
 		padding: 4.5rem 3rem;
 	}
-}
+} */
 
-.home .site-header .site-branding {
+/* .home .site-header .site-branding {
 	padding: 3.5rem 1rem;
-}
+} */
 
-@media (min-width:37.5em) {
+/* @media (min-width:37.5em) {
 	.home .site-header .site-branding {
 		padding: 7rem 2rem;
 	}
-}
+} */
 
-@media (min-width:48em) {
+/* @media (min-width:48em) {
 	.home .site-header .site-branding {
 		padding: 10.5rem 3rem;
 	}
-}
+} */
 
 /* .site-title {
 	margin: 0;
@@ -1634,10 +1634,10 @@ input[type=submit].button--inactive:hover {
 	content: "";
 } */
 
-.site-header>* {
+/* .site-header>* {
 	position: relative;
 	z-index: 200;
-}
+} */
 
 /* .home .site-header .site-branding:after,
 .home .site-header .site-branding:before {
