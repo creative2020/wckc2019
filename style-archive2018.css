@@ -232,11 +232,11 @@ th, td {
 }
 
 .cc--var-local-gold:after {
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 .cc--var-local-gold .cc__variable:after {
-	content: "#e6aa50";
+	content: "#989898";
 }
 
 .cc--var-local-linnen:after {
@@ -328,11 +328,11 @@ th, td {
 }
 
 .cc--var-color-link-hover:after {
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 .cc--var-color-link-hover .cc__variable:after {
-	content: "#e6aa50";
+	content: "#989898";
 }
 
 .cc--var-color-link-visited:after {
@@ -829,12 +829,12 @@ body {
 
 ::-moz-selection {
 	color: #fff;
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 ::selection {
 	color: #fff;
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 h1,
@@ -1009,12 +1009,12 @@ a {
 
 a:focus,
 a:hover {
-	color: #e6aa50;
+	color: #989898;
 	text-decoration: none;
 }
 
 a:active {
-	color: #e6aa50;
+	color: #989898;
 	text-decoration: none;
 }
 
@@ -1372,7 +1372,7 @@ input[type=submit]:active,
 input[type=submit]:focus,
 input[type=submit]:hover {
 	color: rgba(29,36,42,.9);
-	background-color: #e6aa50;
+	background-color: #989898;
 	text-decoration: none;
 }
 
@@ -1412,7 +1412,7 @@ input[type=submit].button--primary:active,
 input[type=submit].button--primary:focus,
 input[type=submit].button--primary:hover {
 	color: rgba(29,36,42,.9);
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 .button.button--secondary,
@@ -1549,7 +1549,7 @@ p.site-description{
 .site-title a {
 	font-size: 0;
 	display: block;
-	color: #e6aa50;
+	color: #989898;
 }
 
 .site-title a:active,
@@ -1733,7 +1733,7 @@ p.site-description{
 .menu-toggle:active,
 .menu-toggle:focus,
 .menu-toggle:hover {
-	color: #e6aa50;
+	color: #989898;
 	background-color: #000;
 }
 
@@ -1754,7 +1754,7 @@ p.site-description{
 	top: -.125rem;
 	border: .375rem solid transparent;
 	margin-left: .5rem;
-	border-top-color: #e6aa50;
+	border-top-color: #989898;
 	content: "";
 }
 
@@ -1764,7 +1764,7 @@ p.site-description{
 
 .menu-toggle[aria-expanded=true]:after {
 	border-top-color: transparent;
-	border-bottom-color: #e6aa50;
+	border-bottom-color: #989898;
 }
 
 @media (min-width:37.5em) {
@@ -1784,7 +1784,7 @@ p.site-description{
 	left: 0;
 	right: 0;
 	height: .125rem;
-	background-color: #e6aa50;
+	background-color: #989898;
 	content: "";
 }
 
@@ -1869,7 +1869,7 @@ p.site-description{
 
 .menu-item a {
 	display: block;
-	color: #e6aa50;
+	color: #989898;
 	padding: .5rem 1rem;
 	text-decoration: none;
 	transition: all .1s ease;
@@ -1912,7 +1912,7 @@ p.site-description{
 															.menu-item a:hover {
 		color: #fff;
 		background-color: #EE7768;
-		border-top: 2px #e6aa50 solid;
+		border-top: 2px #989898 solid;
 	}
 
 	.menu-item-has-children a {
@@ -1921,7 +1921,7 @@ p.site-description{
 
 	.menu-item a {
 		padding: .5rem;
-		border-top: 2px #e6aa50 solid;
+		border-top: 2px #989898 solid;
 	}
 }
 
@@ -1961,7 +1961,7 @@ p.site-description{
 		border: .375rem solid transparent;
 		margin-left: .5rem;
 		vertical-align: middle;
-		border-top-color: #e6aa50;
+		border-top-color: #989898;
 		content: "";
 	}
 
@@ -2386,7 +2386,7 @@ p.site-description{
 	margin: 0;
 	width: 3rem;
 	height: 3rem;
-	border: .125rem solid #e6aa50;
+	border: .125rem solid #989898;
 	background-color: #fff;
 	transition: all .15s ease;
 }
@@ -3068,7 +3068,7 @@ div.googlemaps iframe {
 .wcb-session-the-three-kinds-of-design:after {
 	display: inline-block;
 	padding: .0625rem .375rem;
-	border: 2px solid #e6aa50;
+	border: 2px solid #989898;
 	position: absolute;
 	bottom: 1rem;
 	font-size: .8em;
@@ -3932,7 +3932,7 @@ div.googlemaps iframe {
 .jetpack_subscription_widget input[type=submit]:focus,
 .jetpack_subscription_widget input[type=submit]:hover {
 	color: rgba(29,36,42,.9);
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 .jetpack_subscription_widget #subscribe-text {
@@ -4211,7 +4211,7 @@ div.googlemaps iframe {
 
 .realistic-ticket:focus .realistic-ticket__info-action,
 .realistic-ticket:hover .realistic-ticket__info-action {
-	color: #e6aa50;
+	color: #989898;
 }
 
 .page-slug-sponsors #content {
@@ -4415,7 +4415,7 @@ div.googlemaps iframe {
 .nav-anchor a:focus,
 .nav-anchor a:hover {
 	color: rgba(29,36,42,.9);
-	background-color: #e6aa50;
+	background-color: #989898;
 }
 
 .u-text-center {
