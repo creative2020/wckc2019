@@ -360,11 +360,11 @@ th, td {
 }
 
 .cc--var-color-link-alt-hover:after {
-	background-color: #57407a;
+	background-color: #EE7768;
 }
 
 .cc--var-color-link-alt-hover .cc__variable:after {
-	content: "#57407a";
+	content: "#EE7768";
 }
 
 .cc--var-color-link-alt-visited:after {
@@ -2216,7 +2216,7 @@ p.site-description{
 .entry-meta a:active,
 .entry-meta a:focus,
 .entry-meta a:hover {
-	color: #57407a;
+	color: #EE7768;
 }
 
 .entry-meta .updated {
@@ -2250,7 +2250,7 @@ p.site-description{
 .entry-footer a:active,
 .entry-footer a:focus,
 .entry-footer a:hover {
-	color: #57407a;
+	color: #EE7768;
 }
 
 .wcorg-organizers {
