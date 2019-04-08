@@ -1609,30 +1609,20 @@ input[type=submit].button--inactive:hover {
 	color: hsla(0,0%,100%,.6);
 }
 
-.site-header {
+/* .site-header {
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 	transition: all .15s ease;
-}
-@media (min-width: 1200px) { /*Desktop Large*/
-    .site-branding {
-      background-color: red;
-    }
-    .site-header {
-        background-size: contain;
-        background-position: 50%;
-        background-color: white;
-    }
-}
+} */
 
-@media (min-width:48em) {
+/* @media (min-width:48em) {
 	.site-header {
 		background-image: url('https://2019.kansascity.wordcamp.org/files/2019/04/2019header.jpg');
 		background-size: cover;
 	}
-}
+} */
 
 /* .site-header:before {
 	position: absolute;
