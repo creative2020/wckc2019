@@ -51,14 +51,14 @@ p.site-description{
 }
 
 .button:hover, button:hover, input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover {
-	padding: 0;
+	/* padding: 0;
 	border: 1px solid #000 !important;
 	font-size: 1em;
 	line-height: 1.5625em;
 	text-align: center;
 	color: #fff !important;
 	font-weight: 700;
-	background-color: #000 !important;
+	background-color: #000 !important; */
 }
 
 .contact-form label.checkbox, .contact-form label.radio {
@@ -748,8 +748,8 @@ html [type=button] {
 [type=reset]::-moz-focus-inner,
 [type=submit]::-moz-focus-inner,
 button::-moz-focus-inner {
-	border-style: none;
-	padding: 0;
+	/* border-style: none;
+	padding: 0; */
 }
 
 [type=button]:-moz-focusring,
