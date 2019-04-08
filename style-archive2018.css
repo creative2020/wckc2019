@@ -1389,10 +1389,10 @@ input[type=submit]:hover {
 
 @media (min-width:48em) {
 	.button,
-															    button,
-															    input[type=button],
-															    input[type=reset],
-															    input[type=submit] {
+  button,
+  input[type=button],
+  input[type=reset],
+  input[type=submit] {
 		font-size: 1em;
 		line-height: 1.5625em;
 	}
@@ -1978,18 +1978,18 @@ input[type=submit].button--inactive:hover {
 	}
 
 	.menu-item-has-children.focus>a,
-															    .menu-item-has-children:hover>a {
+	.menu-item-has-children:hover>a {
 		color: #fff;
 		background-color: #EE7768;
 	}
 
 	.menu-item-has-children.focus>a:after,
-															    .menu-item-has-children:hover>a:after {
+	.menu-item-has-children:hover>a:after {
 		border-top-color: rgba(29,36,42,.9);
 	}
 
 	.menu-item-has-children.focus>.sub-menu,
-															    .menu-item-has-children:hover>.sub-menu {
+	.menu-item-has-children:hover>.sub-menu {
 		left: 0;
 	}
 
@@ -2037,8 +2037,8 @@ input[type=submit].button--inactive:hover {
 	}
 
 	.sub-menu a.focus,
-															    .sub-menu a:focus,
-															    .sub-menu a:hover {
+	.sub-menu a:focus,
+	.sub-menu a:hover {
 		background-image: url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-dark.png');
 	}
 }
@@ -2049,19 +2049,19 @@ input[type=submit].button--inactive:hover {
 		top: 100%;
 		left: -999em;
 		z-index: 310;
-		min-width: 16.25rem;
+		/* min-width: 16.25rem; */
 		background-color: #EE7768;
 	}
 
 	.sub-menu .menu-item {
 		width: 100%;
 		margin: 0;
-		border-top: 1px solid hsla(0,0%,100%,.2);
+		/* border-top: 1px solid hsla(0,0%,100%,.2); */
 		text-align: left;
 	}
 
 	.sub-menu a {
-		padding: .625rem 1rem;
+		/* padding: .625rem 1rem; */
 		color: #fff;
 	}
 }
