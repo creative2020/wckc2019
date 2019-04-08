@@ -1790,9 +1790,9 @@ input[type=submit].button--inactive:hover {
 	top: 0;
 	left: 0;
 	right: 0;
-	height: .125rem;
+	/* height: .125rem;
 	background-color: #989898;
-	content: "";
+	content: ""; */
 }
 
 @media (max-width:37.4375em) {
