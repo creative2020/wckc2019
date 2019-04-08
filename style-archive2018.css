@@ -3845,13 +3845,13 @@ div.googlemaps iframe {
 
 @media (min-width:37.5em) {
 	.widget {
-		padding: 3rem 2rem;
+		padding: 1rem;
 	}
 }
 
 @media (min-width:48em) {
 	.widget {
-		padding: 4.5rem 3rem;
+		padding: 1rem;
 	}
 }
 
@@ -3869,8 +3869,8 @@ div.googlemaps iframe {
 
 @media (min-width:48em) {
 	.widget hr {
-		margin-top: 2rem;
-		margin-bottom: 2rem;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
 	}
 }
 
@@ -4096,24 +4096,24 @@ div.googlemaps iframe {
 
 @media (min-width:48em) {
 	#text-3,
-															    #text-4 {
+	#text-4 {
 		position: relative;
 	}
 
-	#text-3 .widget-title,
-															    #text-4 .widget-title {
+	/* #text-3 .widget-title,
+	#text-4 .widget-title {
 		text-align: left;
-	}
+	} */
 
 	#text-3 p,
-															    #text-4 p {
+	#text-4 p {
 		margin-bottom: 0;
 		margin-right: 20rem;
 		text-align: left;
 	}
 
 	#text-3 .realistic-ticket,
-															    #text-4 .realistic-ticket {
+	#text-4 .realistic-ticket {
 		position: absolute;
 		top: 0;
 		right: 0;
