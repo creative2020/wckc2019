@@ -3842,6 +3842,10 @@ div.googlemaps iframe {
 	margin-left: auto;
 	margin-right: auto;
 }
+.widget ul {
+  list-style-type: none;
+  padding:1rem;
+}
 
 @media (min-width:37.5em) {
 	.widget {
