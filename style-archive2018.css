@@ -3836,11 +3836,12 @@ div.googlemaps iframe {
 }
 
 .widget {
-	padding: 1.5rem 1rem;
+	padding: 1rem;
 	position: relative;
 	max-width: 50rem;
 	margin-left: auto;
 	margin-right: auto;
+  border-bottom:2px solid white;
 }
 .widget ul {
   list-style-type: none;
