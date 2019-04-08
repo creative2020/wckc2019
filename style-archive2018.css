@@ -179,7 +179,7 @@ th, td {
 
 .wcorg-organizer .avatar {
 	border-radius: 50%;
-	border: 6px double #ffce32;
+	border: 6px double #989898;
 }
 
 .entry-content li {
@@ -256,11 +256,11 @@ th, td {
 }
 
 .cc--var-local-purple:after {
-	background-color: #ffce32;
+	background-color: #989898;
 }
 
 .cc--var-local-purple .cc__variable:after {
-	content: "#ffce32";
+	content: "#989898";
 }
 
 .cc--var-color-text:after {
@@ -344,11 +344,11 @@ th, td {
 }
 
 .cc--var-color-link-alt:after {
-	background-color: #ffce32;
+	background-color: #989898;
 }
 
 .cc--var-color-link-alt .cc__variable:after {
-	content: "#ffce32";
+	content: "#989898";
 }
 
 .cc--var-color-link-alt-focus:after {
@@ -851,11 +851,11 @@ h4 {
 
 .entry-content h2, .entry-content h3, .entry-content h4 {
 	display: inline-block;
-	background: -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#ffce32,#ffce32);
-	background: -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#ffce32,#ffce32);
-	background: -o-linear-gradient(#fff,#fff), -o-linear-gradient(#fff,#fff), -o-linear-gradient(#ffce32,#ffce32);
-	background: -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#ffce32,#ffce32);
-	background: linear-gradient(#fff,#fff), linear-gradient(#fff,#fff), linear-gradient(#ffce32,#ffce32);
+	background: -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#989898,#989898);
+	background: -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#989898,#989898);
+	background: -o-linear-gradient(#fff,#fff), -o-linear-gradient(#fff,#fff), -o-linear-gradient(#989898,#989898);
+	background: -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#989898,#989898);
+	background: linear-gradient(#fff,#fff), linear-gradient(#fff,#fff), linear-gradient(#989898,#989898);
 	-webkit-background-size: 0 0, 0 0, 4px 4px;
 	-moz-background-size: 0 0, 0 0, 4px 4px;
 	background-size: 0 0, 0 0, 4px 4px;
@@ -2103,7 +2103,7 @@ p.site-description{
 	background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png');
 	background-position: 50%;
 	background-repeat: no-repeat;
-	background-color: #ffce32;
+	background-color: #989898;
 	background-size: 40px;
 	border-radius: 50%;
 	transition: all .1s ease;
@@ -2118,7 +2118,7 @@ p.site-description{
 	margin-bottom: -1.875rem;
 	width: 1.875rem;
 	height: 6.25rem;
-	background: #ffce32;
+	background: #989898;
 	transition: all .1s ease;
 	content: "";
 }
@@ -2210,7 +2210,7 @@ p.site-description{
 }
 
 .entry-meta a {
-	color: #ffce32;
+	color: #989898;
 }
 
 .entry-meta a:active,
@@ -2244,7 +2244,7 @@ p.site-description{
 }
 
 .entry-footer a {
-	color: #ffce32;
+	color: #989898;
 }
 
 .entry-footer a:active,
@@ -3606,7 +3606,7 @@ div.googlemaps iframe {
 		left: 50%;
 		width: 100%;
 		transform: translateX(-50%);
-		border-top: 2px solid #ffce32;
+		border-top: 2px solid #989898;
 		content: "";
 		z-index: -1;
 	}
@@ -4016,7 +4016,7 @@ div.googlemaps iframe {
 	display: block;
 	width: 3rem;
 	height: 3rem;
-	border: 6px double #ffce32;
+	border: 6px double #989898;
 	border-radius: 50%;
 	transition: all .1s ease;
 }
@@ -4043,7 +4043,7 @@ div.googlemaps iframe {
 .list-social a:hover {
 	text-decoration: none;
 	color: hsla(0,0%,100%,.9);
-	background-color: #ffce32;
+	background-color: #989898;
 }
 
 .list-social a:active:before,
